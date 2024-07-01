@@ -1,0 +1,7 @@
+body {
+    background-color: #000;
+    color: #fff; /* Define a cor do texto para branco para contrastar com o fundo preto */
+    font-family: Arial, sans-serif; /* Define a família de fontes para todo o documento */
+    margin: 0; /* Remove margens padrão do corpo */
+    padding: 20px; /* Adiciona um preenchimento interno para evitar que o conteúdo fique muito próximo às bordas */
+}
